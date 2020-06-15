@@ -1,6 +1,6 @@
-# cccp
+# CCCP
 
-Welcome to visit the homepage of our work CCCP!
+Welcome to visit the homepage of our CCCP work!
 
 
 The homepage contains the code, experimental data, subject prorgams, and original figures in this work.
