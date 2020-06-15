@@ -1,4 +1,4 @@
-# CCCP
+# cccp
 
 Welcome to visit the homepage of our work CCCP!
 
